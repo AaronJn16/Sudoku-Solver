@@ -41,4 +41,4 @@ This will process the image, solve the Sudoku, and display the solution along wi
 
 **Output Image:**
 
-<img src="resources/Output_image.png" />
+<img src="/Output_image.png" />
