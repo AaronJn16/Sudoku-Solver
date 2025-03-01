@@ -41,4 +41,4 @@ This will process the image, solve the Sudoku, and display the solution along wi
 
 **Output Image:**
 
-[<img src="resources/Output_image.png" />](https://github.com/chithindocha/Sudoku_Solver/blob/main/resources/Output_image.png?raw=true)
+<img src="resources/Output_image.png" />
